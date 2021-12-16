@@ -1,0 +1,23 @@
+
+
+Project Description: 
+
+Tablut is played on a 9x9 checkerboard between a set of 9 white pieces and 16 black pieces. 
+The middle square is called the throne. One of the white pieces is the king, and the others, 
+his guards, are known as Swedes. The white side wins if the king reaches one of the edges of 
+the board. The black pieces are known as Muscovites. Their aim is to capture the king before 
+he reaches the edge of the board. Two players will participate in this game and the player who chooses black side goes first. 
+
+
+
+
+
+Reference:
+
+Project idea:
+http://www-inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/index.html
+https://en.wikipedia.org/wiki/Tafl_games
+
+Slick 2D resources:
+https://www.youtube.com/watch?v=AXNDBQfCd08&list=PL210C2267A8922854
+https://www.youtube.com/watch?v=SulhUnDtXRw

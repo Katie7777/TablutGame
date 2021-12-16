@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="75" tileheight="75" infinite="0" backgroundcolor="#4a1010" nextlayerid="5" nextobjectid="8">
+ <tileset firstgid="1" source="b654517527.tsx"/>
+ <tileset firstgid="487" source="darkwood.tsx"/>
+ <tileset firstgid="505" source="whitewood.tsx"/>
+ <layer id="1" name="Warstwa Kafelków 1" width="9" height="9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACg3F6zmCYQAA0LdP+Noh5TZKKWqHUi47ILcdImQH8ah2IEU7RFEzOD/Oc3IhhDw7FCiyyx4lylSosk+NOgcccsQxJ5xyRoNzLrjkimua3HBLizvueaDNI090eOaFOArh1V169HnjnQEfDBnxyRdjJnzzw5QZv/wxZ0EiEULEEkmWWWGVmBRp1siQZZ0NNtlim38ClzLvRAEAAA==
+  </data>
+ </layer>
+</map>
